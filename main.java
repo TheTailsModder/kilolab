@@ -10,7 +10,7 @@ public class Main {
 		miles = miles_input.nextDouble();
 		System.out.println("Конвертация...");
 		kilometers = miles * 1.609;
-		System.out.println("Километров: " + kilometers);
+		System.out.println("Километров: " + kilometers + " [приблизительно]");
 		System.out.println("\nСпасибо за использование!\nСледи за моей страницей на GitHub: ftvTails");
 	}
 }
