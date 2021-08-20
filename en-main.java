@@ -11,6 +11,6 @@ public class Main {
 		System.out.println("Convertating...");
 		kilometers = miles * 1.609;
 		System.out.println("Kilometers: " + kilometers + " [approximate]");
-		System.out.println("\nThanks for using!\nFollow my GitHub page: ftvTails");
+		System.out.println("\nThanks for using!\nFollow my GitHub page: TheTailsModder");
 	}
 }
